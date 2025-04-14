@@ -21,7 +21,7 @@ def bfs(graph,start,goal):
     return False
 
 
-
+#Think of an Mimimum Spanning Tree (Similar to Minimum Spanning Tree)
 def ucs(graph,start,goal):
     visited=set()
     queue=[]
